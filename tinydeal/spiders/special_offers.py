@@ -7,4 +7,4 @@ class SpecialOffersSpider(scrapy.Spider):
     start_urls = ['https://www.tinydeal.com/specials.html']
 
     def parse(self, response):
-        pass
+        result = respone
